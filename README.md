@@ -3,7 +3,7 @@ One goal of CS70 is to teach professional coding practices.  Nearly all language
 
 Because C++ is such an old and widly-used language, its idioms are not standardized and often a topic of debate. For clarity, we have compiled the following list of common C++ idioms that we teach and enforce in CS70. You may disagree with some of them, but we ask that you follow them for the code that you write in this class.  (This will be good practice, since in industry, you will likely find yourself required to follow coding practices that you may not agree with).
 
-**Hint: You can view the table of contents for this file by clicking the hamburger menu icon at the top left of the rendered page.**
+**Hint: You can view the table of contents for this file on GitHub by clicking the menu icon to the left of `README.md`.**
 
 # 1. General
 ## 1.1 Prefer pre-increment over post-increment
